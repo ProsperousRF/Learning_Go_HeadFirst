@@ -1,2 +1,1 @@
-# Learning_Go_HeadFirst
-GO learning path. HeadFirst.
+Head First. Изучаем Go.
